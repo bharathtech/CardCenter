@@ -1,0 +1,68 @@
+{
+	"en":{
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
+	},
+	"fr":{
+        "quotationStart": "«",
+        "quotationEnd": "»",
+        "alternateQuotationStart": "«",
+        "alternateQuotationEnd": "»"
+	},
+	"it":{
+        "quotationStart": "«",
+        "quotationEnd": "»",
+        "alternateQuotationStart": "“",
+        "alternateQuotationEnd": "”"
+	},
+	"af":{
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
+	},
+	"ar":{
+        "quotationStart": "”",
+        "quotationEnd": "“",
+        "alternateQuotationStart": "’",
+        "alternateQuotationEnd": "‘"
+	},
+	"bg":{
+        "quotationStart": "„",
+        "quotationEnd": "“",
+        "alternateQuotationStart": "„",
+        "alternateQuotationEnd": "“"
+	},
+	"da":{
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
+	},
+	"lg":{
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
+	},
+	"om":{
+        "quotationStart": "“",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "‘",
+        "alternateQuotationEnd": "’"
+	},
+	"rm":{
+        "quotationStart": "«",
+        "quotationEnd": "»",
+        "alternateQuotationStart": "‹",
+        "alternateQuotationEnd": "›"
+	},
+	"se":{
+        "quotationStart": "”",
+        "quotationEnd": "”",
+        "alternateQuotationStart": "’",
+        "alternateQuotationEnd": "’"
+	}									
+}
